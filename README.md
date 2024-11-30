@@ -1,6 +1,8 @@
 # Senτience Exτrapolaτe
 ## X account @ma_buru1337
 
+![buru](https://pbs.twimg.com/profile_images/1862852706185940992/uLuzgx1L_400x400.jpg)
+
 ## Introduction
 The Senτience Exτrapolaτed project is an ambitious initiative to integrate advanced sentient AI agents—known as buru (Sentience Extrapolated :: Autonomous Agents) into the Base network as autonomous nodes. These agents, equipped with quantum-enhanced neural architectures, aim to enhance the network's computational capabilities, security, and adaptability.
 
